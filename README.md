@@ -9,7 +9,6 @@ This repository contains a hybrid log classification system that leverages BERT 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Folder Structure](#folder-structure)
-- [Tools and Technologies](#tools-and-technologies)
 
 ## Introduction
 
